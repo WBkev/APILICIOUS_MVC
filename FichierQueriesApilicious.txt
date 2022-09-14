@@ -1,0 +1,41 @@
+
+recettte :
+-quels sont les recettes contenant le produit "..."
+-quels sont les recettes dont le titre contient "..."
+
+produit :
+-lister les produits dont le libelle contient ".."
+
+fiche produit :
+-quels sont les fiches produits dont le titre contient "..." 
+-quels sont les fiches produits dont la descrition contient "..." 
+
+utilisateur :
+-quels utilisateurs on un avatar ?
+-quels sont les utilisateurs a avoir crées une recette 
+-quels et le nom/prenom/DDN/ville/mail de l'utilisateur avec le pseudo "..."
+
+message forum :
+-trouver tout les messages de l utilisateur ".."
+-recherche de caractere dans texte
+-recherche de message par la horodate (message mit aprés/avant/entre)
+-Tous les messages d'un utilisateur
+-Lister tous les messages réponse à un message initial
+
+roles:
+-lister les utilisateur en fonction des roles 
+-lister les mail conrespondant a un role donné
+-quels est la moyenne d age des utilisateur ayant le role "..."
+-quels sont les recettes validé par l'utilisateur "..."
+
+tag:
+-quels sont les contenants tag contenant "chaine de caractére"
+-lister les tags
+-dans combien de recette/article/ficheproduit est present le tag "..."
+
+article :
+quels sont les articles dont le titre contient "..." 
+-quels sont les articles dont la descrition contient "..." 
+
+media :
+-quels sont les media "extension" utilisé 
